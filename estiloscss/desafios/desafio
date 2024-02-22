@@ -1,0 +1,31 @@
+Questões
+
+1. Desafio de Classes:
+   Você precisa criar um layout de página com diferentes seções. Cada seção deve ter um estilo único. Use classes para aplicar estilos diferentes, como cores de fundo, fontes e espaçamento, a cada seção.
+
+2. Desafio de Entendendo os IDs:
+   Seu objetivo é criar um formulário com campos de entrada. Cada campo deve ter um estilo único. Use IDs para aplicar estilos diferentes, como bordas personalizadas, cores de fundo e tamanhos de fonte, a cada campo.
+
+3. Desafio de Cores no CSS:
+   Crie uma página que exiba uma paleta de cores. Cada cor deve ter um estilo específico. Use classes para aplicar estilos diferentes, como cores de texto, bordas e sombras, a cada cor na paleta.
+
+4. Desafio de Cores Hexadecimais:
+   Você precisa criar um menu de navegação horizontal. Cada item do menu deve ter uma cor de fundo diferente usando cores hexadecimais. Além disso, quando o mouse passar sobre um item, a cor de fundo deve mudar para outra cor.
+
+5. Desafio de RGB:
+   Crie um layout de página com diferentes blocos de cores. Use a notação RGB para definir as cores de cada bloco. Experimente diferentes combinações e intensidades de cores para criar um visual interessante.
+
+6. Desafio de RGBa:
+   Crie um formulário com campos de entrada. Use a notação RGBa para definir a cor de fundo de cada campo. Aplique diferentes níveis de transparência para criar um efeito interessante nos campos.
+
+7. Desafio de HSL:
+   Crie um componente de seleção de cores que permita ao usuário escolher uma cor. Use a notação HSL para definir as cores. Em tempo real, aplique a cor selecionada a um elemento da página.
+
+8. Desafio de Inclusão de Imagem com CSS:
+   Crie uma galeria de imagens onde cada imagem seja exibida em um formato diferente usando CSS. Experimente diferentes estilos, como redimensionamento, rotação e efeitos de transição, para tornar a galeria visualmente atraente.
+
+9. Desafio de Bordas:
+   Crie um layout de página com várias seções. Defina os limites de cada seção usando bordas personalizadas. Experimente diferentes estilos de borda, como sólido, pontilhado e em relevo, para dar destaque às seções.
+
+10. Desafio de Margin:
+    Crie um layout de página com elementos posicionados em diferentes partes da página. Use margens para controlar o espaço entre os elementos. Experimente diferentes valores de margem e observe como eles afetam o layout da página.

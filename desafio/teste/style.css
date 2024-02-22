@@ -1,0 +1,95 @@
+/* Reset some default styles */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Define overall styles for the body */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+  }
+  
+  /* Style the top section containing the title and menu */
+  .top {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .main-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .menu {
+    list-style: none;
+    margin-top: 20px;
+  }
+  
+  .menu li {
+    display: inline;
+    margin-right: 20px;
+    cursor: pointer;
+  }
+  
+  /* Style the container for the main content */
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+  }
+  
+  /* Style headings and paragraphs */
+  h1, h2, p {
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    font-size: 28px;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  /* Style images */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Style the history section */
+  .history {
+    font-style: italic;
+  }
+  
+  /* Style the list items in the "Veículos" and "Armamento" sections */
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  /* Style hyperlinks */
+  a {
+    color: #007acc;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Add horizontal line between sections */
+  hr {
+    margin: 20px 0;
+    border: none;
+    border-top: 1px solid #ddd;
+  }
+  

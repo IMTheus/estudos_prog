@@ -1,0 +1,25 @@
+.secao-1 {
+    background-color: #ff0000; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    padding: 50px; 
+    color: azure;
+    text-align: left;
+   
+}
+
+.secao-2 {
+    background-color: #00ff00; 
+    font-family: Helvetica, sans-serif; 
+    padding: 70px;
+    color: bisque;
+    text-align: center;
+    
+}
+
+.secao-3 {
+    background-color: #0000ff; 
+    font-family: Times New Roman, serif; 
+    padding: 90px; 
+    color: blanchedalmond;
+    text-align: right;
+}
